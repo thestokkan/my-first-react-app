@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7794c663-3991-4c1d-92e7-39d83b892ea6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/ButtonWithCSS.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Day/Day.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Day/Day.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Day/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InputField/Input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InputField/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InputField/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Link/Link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Link/Link.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Link/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jwc2Dax2Ue1SrCiOOcxCEhjZU5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/therese/Documents/AW Academy/Sprint3/module10/React/my-app/src",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/therese/Documents/AW Academy/Sprint3/module10/React/my-app/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Button" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7794c663-3991-4c1d-92e7-39d83b892ea6" name="Changes" comment="" />
+      <created>1672992377220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672992377220</updated>
+      <workItem from="1672992379530" duration="11002000" />
+      <workItem from="1673010114252" duration="1860000" />
+      <workItem from="1673012463477" duration="793000" />
+      <workItem from="1673013603836" duration="13644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
